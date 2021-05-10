@@ -3,6 +3,16 @@ plugins {
     id 'eclipse'
 }
 
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8';
+}
+
+eclipse {
+    project {
+        name = "test3"
+    }
+}
+
 repositories {
     jcenter()
 }
@@ -10,8 +20,4 @@ repositories {
 dependencies {
     testImplementation 'junit:junit:4.13'
     implementation 'com.google.guava:guava:29.0-jre'
-}
-
-application {
-    mainClass = 'com.bitcamp.test3.App'
 }
