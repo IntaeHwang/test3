@@ -14,6 +14,7 @@ public class App {
     System.out.println("Hi~ 에이치 아~이!!");
     System.out.println("야옹");
     System.out.println("점심 버거킹");
+    System.out.println("저녁 일식");
     System.out.println("bye~ b,y,e~");
     System.out.println("버거킹 군침이 싹 도노~~");
 
