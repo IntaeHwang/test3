@@ -11,6 +11,7 @@ public class App {
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
     System.out.println("야옹");
+    System.out.println("점심 버거킹");
     System.out.println("bye~ b,y,e~");
   }
 }
