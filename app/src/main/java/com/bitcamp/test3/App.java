@@ -9,6 +9,7 @@ public class App {
   }
 
   public static void main(String[] args) {
+    System.out.println("동인");
     System.out.println("대훈");
     System.out.println(new App().getGreeting());
     System.out.println("하하하하하하하");
