@@ -9,7 +9,7 @@ public class App {
   }
 
   public static void main(String[] args) {
-    System.out.println("햄버거는 맥도날드 :)");
+    System.out.println("1도 모르겠는데 왜 충돌나는거져");
 
   }
 }
