@@ -17,6 +17,7 @@ public class App {
     System.out.println("저녁 일식");
     System.out.println("bye~ b,y,e~");
     System.out.println("버거킹 군침이 싹 도노~~");
+    System.out.println("zzzzzzz");
 
   }
 }
