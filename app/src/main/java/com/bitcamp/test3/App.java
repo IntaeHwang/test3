@@ -16,6 +16,7 @@ public class App {
     System.out.println("내이름은 이동인");
     System.out.println("진짜 잘 모르겠다");
 
+    System.out.println("하하2");
     System.out.println("하하");
   }
 }
