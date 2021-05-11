@@ -9,11 +9,8 @@ public class App {
   }
 
   public static void main(String[] args) {
-    <<<<<<< HEAD
     System.out.println("테스트123");
-    =======
-        System.out.println("이야ㅑ야야ㅑ야야ㅑㅑㅑ");
-
+    System.out.println("이야ㅑ야야ㅑ야야ㅑㅑㅑ");
     System.out.println("gkgk");
     System.out.println("되는건가");
     System.out.println("동인");
@@ -37,7 +34,5 @@ public class App {
     System.out.println("하하3");
     System.out.println("하하2");
     System.out.println("하하");
-
-    >>>>>>> branch 'main' of https://github.com/IntaeHwang/test3.git
   }
 }
