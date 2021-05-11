@@ -13,12 +13,10 @@ public class App {
 
     System.out.println("아우 헷갈려");
     System.out.println("왜 난 HEAD가 안뜨지?");
-    System.out.println("내이름은 이동인");
-    System.out.println("진짜 잘 모르겠다");
-    System.out.println("어쩌라는거야 개 어렵네");
 
     System.out.println("하하2");
     System.out.println("하하");
     System.out.println("jfsldfjlafjfdsjlkxfjlsakfjlksaj 왜 안되는거야 HEAD 왜 안떠!!!");
+    System.out.println("너무 어렵다.");
   }
 }
