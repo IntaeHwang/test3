@@ -9,31 +9,6 @@ public class App {
   }
 
   public static void main(String[] args) {
-    System.out.println("테스트123");
-    System.out.println("이야ㅑ야야ㅑ야야ㅑㅑㅑ");
-    System.out.println("gkgk");
-    System.out.println("되는건가");
-    System.out.println("동인");
-    System.out.println("동인1");
-    System.out.println("대훈");
-    System.out.println("하하하하하하하");
-    System.out.println("하하하하");
-    System.out.println("하하하하하하하하하");
-    System.out.println("하하");
-    System.out.println("안되네12123123213");
-
-    System.out.println("햄버거는 맥도날드 :)");
-    System.out.println("하하");
-    System.out.println("아우 헷갈려");
-    System.out.println("왜 난 HEAD가 안뜨지?");
-    System.out.println("내이름은 이동인");
-    System.out.println("진짜 잘 모르겠다");
-    System.out.println("하하6");
-    System.out.println("하하5");
-    System.out.println("하하4");
-    System.out.println("하하3");
-    System.out.println("하하2");
-    System.out.println("하하");
-    System.out.println("얼동");
+    System.out.println("내꺼");
   }
 }
