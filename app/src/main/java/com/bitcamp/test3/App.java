@@ -14,7 +14,7 @@ public class App {
     System.out.println("하하하하");
     System.out.println("하하하하하하하하하");
     System.out.println("하하");
-    System.out.println("안되네12123213");
+    System.out.println("안되네12123123213");
 
     System.out.println("햄버거는 맥도날드 :)");
 
