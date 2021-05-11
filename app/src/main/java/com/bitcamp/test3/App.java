@@ -9,7 +9,7 @@ public class App {
   }
 
   public static void main(String[] args) {
-    System.out.println("1도 모르겠는데 왜 충돌나는거져");
+    System.out.println("되는건가?");
 
   }
 }
