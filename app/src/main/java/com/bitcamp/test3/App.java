@@ -10,10 +10,9 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("Hi~ 에이치 아~이!!");
-    System.out.println("야옹");
-    System.out.println("점심 버거킹");
-    System.out.println("bye~ b,y,e~");
-    System.out.println("메롱");
+    System.out.println("하하하하하하하");
+    System.out.println("하하하하");
+    System.out.println("하하하하하하하하하");
+    System.out.println("하하");
   }
 }
