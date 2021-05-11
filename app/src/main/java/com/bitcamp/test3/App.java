@@ -9,9 +9,13 @@ public class App {
   }
 
   public static void main(String[] args) {
+    System.out.println("이야ㅑ야야ㅑ야야ㅑㅑㅑ");
+
+
+    System.out.println("되는건가");
+    System.out.println("동인");
     System.out.println("동인1");
     System.out.println("대훈");
-    System.out.println(new App().getGreeting());
     System.out.println("하하하하하하하");
     System.out.println("하하하하");
     System.out.println("하하하하하하하하하");
