@@ -17,5 +17,7 @@ public class App {
     System.out.println("bye~ b,y,e~");
     System.out.println("버거킹 군침이 싹 도노~~");
 
+    System.out.println("아우 헷갈려");
+
   }
 }
