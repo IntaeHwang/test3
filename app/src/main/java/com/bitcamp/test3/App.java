@@ -11,5 +11,7 @@ public class App {
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
     System.out.println("Hi~ 에이치 아~이!!");
+
+    System.out.println("bye~ b,y,e~");
   }
 }
