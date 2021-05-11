@@ -10,10 +10,10 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("햄버거는 맥도날드 :)");
     System.out.println("하하하하하하하");
     System.out.println("하하하하");
     System.out.println("하하하하하하하하하");
     System.out.println("하하");
+    System.out.println("안되네");
   }
 }
